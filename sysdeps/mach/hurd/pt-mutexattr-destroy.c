@@ -1,4 +1,5 @@
-/* Copyright (C) 2016-2018 Free Software Foundation, Inc.
+/* pthread_mutexattr_destroy.  Hurd version.
+   Copyright (C) 2016-2018 Free Software Foundation, Inc.
    Contributed by Agustina Arzille <avarzille@riseup.net>, 2016.
 
    This program is free software; you can redistribute it and/or

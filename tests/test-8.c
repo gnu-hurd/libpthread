@@ -1,3 +1,5 @@
+/* Test pthread_once.  */
+
 #define _GNU_SOURCE
 
 #include <pthread.h>

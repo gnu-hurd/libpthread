@@ -1,4 +1,4 @@
-/* lockfile - Handle locking and unlocking of streams.  Hurd cthreads version.
+/* lockfile - Handle locking and unlocking of streams.  Hurd pthread version.
    Copyright (C) 2000-2018 Free Software Foundation, Inc.
    This file is part of the GNU C Library.
 

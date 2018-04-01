@@ -1,4 +1,5 @@
-/* Copyright (C) 2002-2018 Free Software Foundation, Inc.
+/* Register fork handlers.  Generic version.
+   Copyright (C) 2002-2018 Free Software Foundation, Inc.
    This file is part of the GNU C Library.
    Contributed by Ulrich Drepper <drepper@redhat.com>, 2002.
 

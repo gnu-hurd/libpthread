@@ -1,3 +1,5 @@
+/* Test Thread-Specific Data.  */
+
 #define _GNU_SOURCE
 
 #include <pthread.h>

@@ -1,4 +1,5 @@
-/* Copyright (C) 2003-2018 Free Software Foundation, Inc.
+/* Declaration of libc stubs for pthread functions.  Hurd version.
+   Copyright (C) 2003-2018 Free Software Foundation, Inc.
    This file is part of the GNU C Library.
    Contributed by Ulrich Drepper <drepper@redhat.com>, 2003.
 

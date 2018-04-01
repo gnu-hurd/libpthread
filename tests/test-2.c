@@ -1,4 +1,5 @@
 /* Test detachability.  */
+
 #define _GNU_SOURCE
 
 #include <pthread.h>

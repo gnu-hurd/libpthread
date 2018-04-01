@@ -1,4 +1,5 @@
-/* Copyright (C) 2002-2018 Free Software Foundation, Inc.
+/* libc initialization for libpthread.  Hurd pthread version.
+   Copyright (C) 2002-2018 Free Software Foundation, Inc.
    This file is part of the GNU C Library.
    Contributed by Jakub Jelinek <jakub@redhat.com>, 2002.
 

@@ -1,4 +1,5 @@
-/* Copyright (C) 2005-2018 Free Software Foundation, Inc.
+/* Posix semaphores.  Hurd version.
+   Copyright (C) 2005-2018 Free Software Foundation, Inc.
    This file is part of the GNU C Library.
 
    The GNU C Library is free software; you can redistribute it and/or
