@@ -1,7 +1,7 @@
 /* pthread_mutex_transfer_np.  Transfer mutex ownership to another thread.
    Hurd version.
    Copyright (C) 2016-2018 Free Software Foundation, Inc.
-   Contributed by Agustina Arzille <avarzille@riseup.net>, 2016.
+   This file is part of the GNU C Library.
 
    This program is free software; you can redistribute it and/or
    modify it under the terms of the GNU Library General Public License
